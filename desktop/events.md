@@ -11,7 +11,7 @@ Current polls and giveaways can be seen by clicking the Event icon in any server
 
 If a poll is running, you can vote by clicking first your option and then submitting it by clicking *Vote*. Voting may be also possible on web browser without a Twitch account if set so while creating the poll.
 
-![Poll in sidebar][ui sidebar poll]
+![Poll in sidebar][ui sidebar polls]
 
 After submitted your vote, you can see the results of the poll.
 
@@ -79,7 +79,7 @@ In admin panel, you can see lists of your past polls and giveaways - if there ar
 [ui navigation events hover]: http://i.imgur.com/IFdgYT3.png "Click to see current events"
 [ui sidebar polls]: http://i.imgur.com/vnzCbgy.png "Poll in sidebar"
 [ui sidebar polls results]: http://i.imgur.com/9q5C6Ex.png "Poll results in sidebar"
-[admin events polls]: (http://i.imgur.com/QSSXj4O.png) "Polls in admin panel"
+[admin events polls]: http://i.imgur.com/QSSXj4O.png "Polls in admin panel"
 [admin events polls existing]: http://i.imgur.com/C5zNQIn.png "Existing poll in admin panel"
 [admin events giveaways]: http://i.imgur.com/rKfO5Z7.png "Giveaways in admin panel"
 [admin events polls past]: http://i.imgur.com/ASaKmj5.png "Past polls in admin panel"
