@@ -1,4 +1,5 @@
 ## Events
+*A guide to Polls and Giveaways*
 
 In Twitch Desktop there are two kind of events: polls and giveaways. Polls are used to ask questions from server members and giveaways are used to organize a giveaway.
 
