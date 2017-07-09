@@ -41,7 +41,8 @@ Poll and giveaway settings can be found in admin panel behind Events tab.
 
 **Limited time poll**: You can set the poll automatically end in 1-60 minutes, 1-24 hours, or 1-30 days.
 
-![Existing poll in admin panel][admin events poll existing]
+![Existing poll in admin panel][admin events polls existing]
+
 After creating a poll, you can see its results and copy its public address (if public voting allowed).
 
 ## Giveaways
@@ -73,6 +74,7 @@ In admin panel, you can see lists of your past polls and giveaways - if there ar
 ![Past polls in admin panel][admin events polls past]
 ![Past giveaways in admin panel][admin events giveaways past]
 
+[<< Return to main page](../)
 
 [ui navigation events hover]: http://i.imgur.com/IFdgYT3.png "Click to see current events"
 [ui sidebar poll]: http://i.imgur.com/vnzCbgy.png "Poll in sidebar"
