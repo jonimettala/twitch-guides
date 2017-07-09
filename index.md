@@ -10,4 +10,4 @@ The goal of this page is to complete Help Center and guide Twitch users in topic
 
 - [**Events**][desktop events]: A guide to Polls and Giveaways
 
-[desktop events]: /desktop/events
+[desktop events]: ./desktop/events
